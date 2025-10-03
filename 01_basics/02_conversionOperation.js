@@ -15,4 +15,24 @@
 // 1 => true ; 0 => false
 //  "" => false
 // "dhwh" => true
- 
+   
+
+// ********************************* Operations*************************************
+
+// let val =3;
+// let negval = -val;
+// console.log(negval);
+
+// console.log(3+3)
+// console.log(3*3)
+//etcetc
+
+
+//exception here
+// console.log(1+"2")  //=> 12
+// console.log("1"+2)// => 12
+// console.log("1"+2+2) // => 122
+// console.log(1+2+"2")// => 32
+//console.log(3%2)
+// console.log(+true)
+// console.log(+"")
