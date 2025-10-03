@@ -5,3 +5,15 @@
 
 // Array , Objects , Functions
 
+
+
+// let obj = {
+//     name : "Ash",
+//     age : 22,
+     
+// }
+// const functionMy = function(){
+//     console.log("hey");
+// };
+// const heros = ["krish","Superman","Spidey"]
+// console.log(typeof heros);
