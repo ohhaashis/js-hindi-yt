@@ -28,15 +28,15 @@
 
 // slice , spice
 
-const arr1 = new  Array(1,2,3,4)
+// const arr1 = new  Array(1,2,3,4)
 
-console.log("A ",arr1);
+// console.log("A ",arr1);
 
-const myn1 = arr1.slice(1,3)
+// const myn1 = arr1.slice(1,3)
 
-console.log(myn1);
+// console.log(myn1);
 
 
-const myn2 = arr1.splice(1,3) // 
-console.log(arr1)
-console.log(myn2);
+// const myn2 = arr1.splice(1,3) // 
+// console.log(arr1)
+// console.log(myn2);
