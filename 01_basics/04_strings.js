@@ -28,4 +28,13 @@
 // console.log(NewString);
 
 
-const newStringOne = '  Ash  2909  '
+// const newStringOne = '  Ash  2909  '
+// console.log(newStringOne);
+// console.log(newStringOne.trim());
+
+// const url = "https;//ash.com//ash%29kumar"
+// console.log(url.replace('%29','-'));
+
+const gameName = new String('Ash-2909')
+console.log(gameName.split('-'));
+
