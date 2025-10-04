@@ -17,3 +17,9 @@
 // };
 // const heros = ["krish","Superman","Spidey"]
 // console.log(typeof heros);
+
+
+//*********************************************************************** */
+
+
+// stack (primitive) , heap ( non - primitive)
