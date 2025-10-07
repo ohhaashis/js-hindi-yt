@@ -48,3 +48,34 @@
 // console.log(Object.entries(tinderUser));
 
 // console.log(tinderUser.hasOwnProperty('isLoggedin'));
+
+
+// *************  Object de-structure and JSON API ********************************
+
+// const course = {
+//     coursename: "JS in hindi",
+//     price : "free",
+//     courseInstructor : "Hitesh",
+// }
+
+// // course.courseInstructor
+// const {courseInstructor : instructor} = course
+// console.log(courseInstructor); 
+
+// const navbar = ({}) => { // => destructuring
+
+// }
+// navbar(company = "Ash")
+
+
+//++++++++++API++++++++++++++
+
+//  {
+//     //
+//  }
+
+// [
+//     {},
+//     {},
+// ]
+
