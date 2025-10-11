@@ -13,7 +13,7 @@
 
 // (()=>{
 //     console.log(`Db Connecetd`);
-//})
+// })
 
 // ((name)=>{
 //     console.log(`Db Connecetd`);
